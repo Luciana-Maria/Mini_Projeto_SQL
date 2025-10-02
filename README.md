@@ -104,8 +104,12 @@ A apresentação do projeto foi criada no **Canva** e está disponível no arqui
 
 Projeto desenvolvido por **Luciana** durante o **Programa Desenvolve Grupo Boticário 2025**.
 
-```
+---
+
+
 ## 🔗 Conecte-se comigo
 
 - [LinkedIn](https://linkedin.com/in/lucianaqa)
+
+````
 
